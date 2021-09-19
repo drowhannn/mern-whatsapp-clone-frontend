@@ -80,6 +80,7 @@
   flex: 1;
   border-radius: 30px;
   padding: 10px;
+  outline-width: none;
   border: none;
 }
 .chat__footer > form > button {
